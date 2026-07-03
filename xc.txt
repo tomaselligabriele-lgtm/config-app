@@ -1,2 +1,2 @@
-82.198.228.11
-xc.tekna.sbss
+82.118.228.11
+xc.teksna.sbss
